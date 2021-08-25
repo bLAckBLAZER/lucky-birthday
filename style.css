@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+Opti&display=swap');
+
+body{
+    font-family: 'Kaisei Opti', serif;
+}
+.container {
+    margin: auto;
+    text-align: center;
+    /* background-color: #EFEFEF; */
+    width: 600px;
+    height: 100vh;
+}
+
+label{
+    display: block;
+    margin: 1rem;
+}
+input {
+    display: block;
+    padding: 0.5rem;
+    margin: auto;
+}
+
+button {
+    padding: 0.5rem;
+    margin: 1rem;
+    background-color: #34D399;
+    text-decoration: none;
+    border: none ;
+    border-radius: 0.5rem;
+
+}
