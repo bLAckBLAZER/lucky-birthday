@@ -21,11 +21,11 @@ function checkLuckyBirthday(){
     }
 
     if((count % luckyNumber.value) === 0){
-        displayMsg.innerHTML = "You are lucky!!!";
+        displayMsg.innerHTML = "You are lucky!!!🍀";
 
     }
     else{
-        displayMsg.innerHTML = "Unlucky :(";
+        displayMsg.innerHTML = "Sadly, your birthday is unlucky😢";
     }
 }
 

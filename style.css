@@ -19,6 +19,8 @@ input {
     display: block;
     padding: 0.5rem;
     margin: auto;
+    border-radius: 0.5rem;
+
 }
 
 button {
@@ -30,3 +32,11 @@ button {
     border-radius: 0.5rem;
 
 }
+h1{
+    margin-top: 2rem;
+}
+
+#display-msg {
+    font-size: 1.8rem;
+}
+
