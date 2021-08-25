@@ -39,4 +39,9 @@ h1{
 #display-msg {
     font-size: 1.8rem;
 }
+footer {
+    position:fixed;
+    bottom: 0;
+    text-align: right;
+}
 
